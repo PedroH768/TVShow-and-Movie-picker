@@ -1,5 +1,4 @@
-# TVShow-and-Movie-picker
-## Just a fun side project
+# TVShow-and-Movie-picker (Just a fun side project)
 ### run it on the terminal and answer the questions
 #### it uses a database that i compiled from various kaggle datasets
 
